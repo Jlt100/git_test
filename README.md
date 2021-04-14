@@ -1,0 +1,1 @@
+This is Joj's first git project!
